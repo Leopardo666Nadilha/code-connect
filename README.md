@@ -1,1 +1,1 @@
-Projeto de página de login e cadastro desenvolvido com CSS moderno.
+Utilized async functions, try-catch blocks, and promises to improve flow control and error handling.
